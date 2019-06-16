@@ -23,7 +23,7 @@ class MemeEditorViewController: UIViewController {
     @IBOutlet weak var shareButton: UIBarButtonItem!
     
     
-    //MARK:- View's Functions
+    //MARK:- Life Cycle
     override func viewDidLoad() {
         super.viewDidLoad()
         
